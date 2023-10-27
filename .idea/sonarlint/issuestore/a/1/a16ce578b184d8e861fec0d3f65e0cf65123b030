@@ -1,0 +1,10 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äì¦§
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äì¦§
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äì¦§8¡Ûèã´1
+2
+java:S1116"Remove this empty statement.(äì¦§
+M
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+\
+java:S1126s"AReplace this if-then-else statement by a single return statement.(•èàëûÿÿÿÿ
